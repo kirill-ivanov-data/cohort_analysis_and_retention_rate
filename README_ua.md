@@ -11,4 +11,4 @@
 * **Бібліотеки:** pandas, numpy (робота з даними), seaborn, matplotlib (візуалізація)
 
 ### Файли в репозиторії
-* cohort_analysis.ipynb — файл з кодом, покроковим описом логіки та фінальною візуалізацією (Heatmap).
+* [cohort_analysis.ipynb](cohort_analysis.ipynb) — файл з кодом, покроковим описом логіки та фінальною візуалізацією (Heatmap).
